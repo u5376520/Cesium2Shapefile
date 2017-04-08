@@ -1,3 +1,6 @@
+#cesium2shapefile.py
+#Used to extract geospatial data from a cesium file and convert it to an ESRI
+#Shapefile that can be viewed in ArcGIS/QGIS.
 #import packages
 import json
 from osgeo import ogr, osr
